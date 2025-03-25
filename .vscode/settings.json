@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "tentativeConnect.sln"
+    "dotnet.defaultSolution": "tentativeConnectGit.sln"
 }
