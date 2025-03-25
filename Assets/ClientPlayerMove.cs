@@ -6,9 +6,9 @@ using StarterAssets;
 
 public class ClientPlayerMove : NetworkBehaviour
 {
-    [SerializedField] private PlayerInput m PlayerInput;
-    [SerializedField] private StarterAssetsInputs m StarterAssetsInputs;
-    [SerializedField] private ThirdPersonController m ThirdPersonController;
+    [SerializeField] private PlayerInput m_PlayerInput;
+    [SerializeField] private StarterAssetsInputs m_StarterAssetsInputs;
+    [SerializeField] private ThirdPersonController m_ThirdPersonController;
 
     private void Awake()
     {
