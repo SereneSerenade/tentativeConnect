@@ -702,6 +702,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8069992c25b810b4dbff915074cdf95b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  m_PlayerInput: {fileID: 2268085592439495103}
+  m_StarterAssetsInputs: {fileID: 3732580939656444381}
+  m_ThirdPersonController: {fileID: 1334622209031654542}
 --- !u!1 &883954994327417702
 GameObject:
   m_ObjectHideFlags: 0
